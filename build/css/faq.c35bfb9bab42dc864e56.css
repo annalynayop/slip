@@ -5,4 +5,4 @@
 .heading{margin-bottom:30px}.subheading{font-size:35px}.slip__hero{position:relative;background-color:white;overflow:hidden}@media only screen and (min-width: 1200px){.slip__hero{height:calc(100vh - var(--header-height))}}.hero__content{height:45%;color:var(--primary);text-align:center;margin:100px auto 0}@media (min-width: 992px){.hero__content{width:755px}}@media (min-width: 992px){.hero__desc{width:650px}}.hero__desc p{margin:0}.hero__heading{color:inherit;line-height:75px;margin-bottom:1rem}.hero__image img{width:362px;height:474px;object-fit:contain}.hero__bg{width:100%;height:55%;background:url(src/images/people.svg) repeat-x center;background-size:cover;margin-top:2%}.faq__title{text-align:center;width:780px;margin:0 auto}.faq__title .heading{margin-bottom:30px}
 
 
-/*# sourceMappingURL=faq.css.map*/
+/*# sourceMappingURL=faq.c35bfb9bab42dc864e56.css.map*/
