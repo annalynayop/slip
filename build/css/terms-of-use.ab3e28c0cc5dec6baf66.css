@@ -1,4 +1,4 @@
 main{width:90%;margin:0 auto;color:#747474;font-family:sans-serif;line-height:1.5;font-size:16px;padding:3rem 1rem}@media (min-width: 1280px){main{width:1200px;font-size:18px;padding-top:3rem;padding-bottom:3rem}}.title{text-align:center;color:black;margin-bottom:2rem}main>ol:first-of-type{padding-left:0}main>ol ol{padding-left:1rem}main>ol li{margin-bottom:1rem}main>ol li li:before{padding-left:1rem}ol{counter-reset:item}ol li{display:block}ol li:before{content:counters(item, ".") " ";counter-increment:item}
 
 
-/*# sourceMappingURL=privacy-policy.b5b9a8cc1c21197c4cc0.css.map*/
+/*# sourceMappingURL=terms-of-use.ab3e28c0cc5dec6baf66.css.map*/
